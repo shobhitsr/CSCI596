@@ -15,7 +15,9 @@ It is proposed to study photoisomerization retinal via non-adiabatic molecular d
 ![flowchart](https://user-images.githubusercontent.com/57571405/143783537-a035af25-9446-4543-ae67-7f59c51b4983.png)
 
 
-## Results
+## Results and discussion
+
+In this project we are first testing ab-initio molecular dynmics simulation, which is more commonly available in quantum chemical software packages than the non-adiabatic molecular dynamics simulation. We have run 50 AIMD trajectories which ends up in the cis conformation and 50 trajectories which ends up in the trans conformation starting near the transition state configuration. From the AIMD data, we have computed mutual information between the HOMO energy and internal coordinates at each time step. Then we have taken internal coordinates with highest MI values and performed principal component analysis. 
 
 ### Correlation plot for internal coordinates with highest mutual information
 
