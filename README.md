@@ -15,13 +15,13 @@ It is proposed to study photoisomerization retinal via non-adiabatic molecular d
 ![flowchart](https://user-images.githubusercontent.com/57571405/143783537-a035af25-9446-4543-ae67-7f59c51b4983.png)
 
 
-## Resulting Graphs
+## Results
 
-### Graph Title 1
-
-#### Description
+### Correlation plot for internal coordinates with highest mutual information
 
 Description goes here
+
+
 
 <img src="Graph 1.jpeg" alt="Graph 1" style="zoom:230%;" />
 
