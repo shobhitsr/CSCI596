@@ -33,10 +33,4 @@ Description goes here
 
 <img src="Graph 2.jpeg" style="zoom:200%;" />
 
-### Graph Title 3
 
-#### Description
-
-Description goes here
-
-<img src="Graph 3.jpeg" style="zoom:200%;" />
