@@ -26,7 +26,7 @@ Positive values indicate positive correlation between variables, i.e. if one var
 <img src="Graph 1.jpeg" alt="Graph 1" style="zoom:230%;" />
 
 ### Principal Component Analysis
-We apply Singular Value Decomposition (SVD) to the correlation matrix preseented above. We plot then the Percent Variance Explained for each SV which allow us to identify which SV are associated with linear combinations of features that are redundant (smallest variance)
+We apply Singular Value Decomposition (SVD) to the correlation matrix presented above. We plot then the Percent Variance Explained for each SV which allow us to identify which SV are associated with linear combinations of features that are redundant (smallest variance)
 
 <img src="Graph 2.jpeg" style="zoom:200%;" />
 
