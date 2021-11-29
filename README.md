@@ -21,17 +21,12 @@ In this project we are first testing ab-initio molecular dynmics simulation, whi
 
 ### Correlation plot for internal coordinates with highest mutual information
 
-Description goes here
-
-
+Positive values indicate positive correlation between variables, i.e. if one variable increases (decreases) the other one increases (decreases) too. Negative values indicate anticorrelation between variables, i.e. if one variable increases the other one decreases and vice versa.
 
 <img src="Graph 1.jpeg" alt="Graph 1" style="zoom:230%;" />
 
-### Graph Title 2
-
-#### Description
-
-Description goes here
+### Principal Component Analysis
+We apply Singular Value Decomposition (SVD) to the correlation matrix preseented above. We plot then the Percent Variance Explained for each SV which allow us to identify which SV are associated with linear combinations of features that are redundant (smallest variance)
 
 <img src="Graph 2.jpeg" style="zoom:200%;" />
 
